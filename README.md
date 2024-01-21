@@ -1,7 +1,6 @@
 ### Hi there 👋
-# Fabian's Data Science Portfolio
 
-Welcome to my data science playground! I'm Fabain, a passionate Data Scientist, Marketer, and Python enthusiast. Join me on this exciting journey where I leverage the power of data to drive smarter decisions and contribute to the ever-evolving field of data science.
+Welcome to my data science playground! I'm Fabian, a passionate Data Scientist, Marketer, and Python enthusiast. Join me on this exciting journey where I leverage the power of data to drive smarter decisions and contribute to the ever-evolving field of data science.
 
 ## 🚀 Mission
 
