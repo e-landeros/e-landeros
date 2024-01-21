@@ -47,3 +47,12 @@ Data science is not just a profession; it's a way of thinking. I unravel complex
 ## 📖 Explore My Work
 
 Browse through my GitHub repositories to discover a variety of projects, from Python scripts to in-depth data science analyses. Feel free to reach out if you have questions, ideas, or just want to connect. Let's embark on this data-driven adventure together!
+
+🌟 **Collaborate with Me Free! 🤝**
+
+Are you a passionate, mission-driven non profit
+looking to make a difference in the world? I'd love to hear from you! 😊
+
+I believe in fostering a culture of collaboration and giving back to the community.
+That's why I'm excited to offer free consulting services and resources
+to non-profits like yours. 🌐
