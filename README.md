@@ -15,8 +15,8 @@ programmer, I bring a unique blend of expertise to the table.
 ### Python
 Python is my go-to language for turning ideas into reality. From data manipulation to machine learning, Python's versatility allows me to tackle a wide range of challenges. Check out my Python projects and let's celebrate the beauty of clean, efficient code together.
 
-### Mojo
-MOJO is 🔥 it's a state of flow and peak performance that I aspire to. I believe MOJO is a huge step in the right direction. Shout out to that team!
+### NLP (Natural Language Processing)
+NLP is my passion! I specialize in leveraging machine learning techniques to analyze and understand human language. From sentiment analysis to language generation, I'm dedicated to pushing the boundaries of NLP.
 
 ### LangChain
 LangChain is more than just a programming language; it's a gateway to unlocking new possibilities. I'm fascinated by the potential of LangChain in revolutionizing how we interact with and manipulate data. Join me as I explore the boundaries of this exciting domain.
