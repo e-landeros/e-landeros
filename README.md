@@ -12,22 +12,20 @@ programmer, I bring a unique blend of expertise to the table.
 
 ## 🔍 Interests
 
+
 ### Python
 Python is my go-to language for turning ideas into reality. From data manipulation to machine learning, Python's versatility allows me to tackle a wide range of challenges. Check out my Python projects and let's celebrate the beauty of clean, efficient code together.
 
 ### NLP (Natural Language Processing)
-NLP is my passion! I specialize in leveraging machine learning techniques to analyze and understand human language. From sentiment analysis to language generation, I'm dedicated to pushing the boundaries of NLP.
-
-### LangChain
-LangChain is more than just a programming language; it's a gateway to unlocking new possibilities. I'm fascinated by the potential of LangChain in revolutionizing how we interact with and manipulate data. Join me as I explore the boundaries of this exciting domain.
+NLP is my passion! I specialize in leveraging machine learning techniques to analyze and understand human language. From sentiment analysis to language generation, I'm dedicated to pushing the boundaries of NLP. Currently Workin on RAG applications!
 
 ### Data Science
 Data science is not just a profession; it's a way of thinking. I unravel complex challenges through predictive models, discover hidden opportunities in data patterns through exploratory data analysis (EDA), and guide discussions to shed light on problems from a different perspective. Let's dive into the world of data science together.
 
 ## 💼 Skills
 
-- **Programming Languages:** Python, Javascript, Mojo 🔥
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, FastAI
+- **Programming Languages:** Python, Javascript, Go, Mojo 🔥
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, FastAI, NLTK, LGBM, Spacy, Autogluon, HuggingFace
 - **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Looker
 - **Database:** SQL, MongoDB, SQLite, Snowflake
