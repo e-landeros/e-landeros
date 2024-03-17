@@ -25,7 +25,7 @@ Data science is not just a profession; it's a way of thinking. I unravel complex
 ## 💼 Skills
 
 - **Programming Languages:** Python, Javascript, Go, Mojo 🔥
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, FastAI, NLTK, LGBM, Spacy, Autogluon, HuggingFace
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, FastAI, NLTK, LGBM, Spacy, HuggingFace
 - **Data Analysis:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Looker
 - **Database:** SQL, MongoDB, SQLite, Snowflake
