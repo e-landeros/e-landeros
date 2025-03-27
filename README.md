@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Fabian, a Data Scientist & Python Enthusiast
+### 👋 Hey there! I'm Fabian, a Data Scientist, AI Engineer & Python Enthusiast
 
 Join me on my data-driven adventure as I leverage the power of data to
 make smarter decisions and contribute to the ever-evolving field of data
