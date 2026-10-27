@@ -5,7 +5,6 @@ I'm passionate about building intelligent systems and leveraging the power of AI
 
 ## 🌐 Connect with Me
 
-- [Kaggle](https://www.kaggle.com/elanderos): Explore my data science competitions and kernels on Kaggle.
-- [Twitter](https://twitter.com/landeros_labs): Follow me for updates on data science, AI, programming, and more.
+- [Twitter](https://x.com/e_landeros_): Follow me for updates on data science, AI, programming, and more.
 - [LinkedIn](https://www.linkedin.com/in/flanderos/): Connect with me on LinkedIn for professional networking and collaboration opportunities.
 
